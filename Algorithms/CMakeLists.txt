@@ -9,8 +9,6 @@ include_directories( ${OpenCV_INCLUDE_DIRS} )
 add_executable( RunAlgorithms RunAlgorithms.cpp )
 target_link_libraries( RunAlgorithms ${OpenCV_LIBS} )
 
-add_executable( RunAlgorithms2 RunAlgorithms2.cpp )
-target_link_libraries( RunAlgorithms2 ${OpenCV_LIBS} )
 
 
 
