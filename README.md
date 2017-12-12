@@ -8,7 +8,7 @@ Experimental code for "MatchBench: A System-level Benchmark and Evaluation for I
 **MatchBench: A System-level Benchmark and Evaluation for Image Matching**, JiaWang Bian, Le Zhang, Yun Liu, Wen-Yan Lin, Ming-Ming Cheng and Ian D. Reid.
 [[Project Page](http://jwbian.net/matchbench)] [[pdf(old)](https://arxiv.org/abs/1709.03917)] [[Dataset (Baidu Yun)](http://pan.baidu.com/s/1c22HIFI)] [[Dataset (Google Drive)](https://drive.google.com/open?id=0BzSIuFwe7BkTemlNVjZYclFWOFk)]
 
-We make significant changes in the new version of the paper which will come soon.
+**We make significant changes in the new version of the paper which will come soon.**
 
 ## Introduction
 
@@ -35,7 +35,7 @@ Evaluation:
     
 
 ## If you like this work, please cite our paper
-	@inproceedings{bian2018matchBench,
+	@inproceedings{bian2018matchbench,
  	    title={MatchBench: A System-level Benchmark and Evaluation for Image Matching},
 	    author={JiaWang Bian and Le Zhang and Yun Liu and Wen-Yan Lin and Ming-Ming Cheng and Ian D. Reid},
 	    year={2018}
