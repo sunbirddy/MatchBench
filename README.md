@@ -1,11 +1,11 @@
-# Image Matching: An Application-oriented Benchmark
-Evaluation code for "Image Matching: An Application-oriented Benchmark"
+# MatchBench: A System-level Benchmark and Evaluation for Image Matching
+Experimental code for "MatchBench: A System-level Benchmark and Evaluation for Image Matching"
 
 ![alt tag](https://jwbian.net/wp-content/uploads/2017/09/Pipeline.png)
 
 ## Publication:
 
-**Image Matching Benchmark**, JiaWang Bian, Le Zhang, Yun Liu, Wen-Yan Lin, Ming-Ming Cheng and Ian D. Reid.
+**MatchBench: A System-level Benchmark and Evaluation for Image Matching**, JiaWang Bian, Le Zhang, Yun Liu, Wen-Yan Lin, Ming-Ming Cheng and Ian D. Reid.
 [[Project Page](http://jwbian.net/matchbench)] [[pdf](https://arxiv.org/abs/1709.03917)] [[Dataset (Baidu Yun)](http://pan.baidu.com/s/1c22HIFI)] [[Dataset (Google Drive)](https://drive.google.com/open?id=0BzSIuFwe7BkTemlNVjZYclFWOFk)]
 
 
@@ -16,8 +16,7 @@ Evaluation code for "Image Matching: An Application-oriented Benchmark"
 Requirements:
 
 	1. Matlab (Evaluate results and plot figures)
-	2. Ghostscript (Save figures as pdf format)
-	3. OpenCV (Run feature matching algorithms)
+	2. OpenCV (Run feature matching algorithms)
  
 Dataset:
 	
@@ -26,8 +25,8 @@ Dataset:
     
 Algorithms:
 	
-	1. The code of total 12 feature matchers are provided.
-	2. The Matlab script for running algorithms on all subsets are given.
+	1. Many feature matchers are provided.
+	2. The Matlab script for running algorithms are given.
     
 Evaluation:
 	
@@ -35,8 +34,8 @@ Evaluation:
     
 
 ## If you like this work, please cite our paper
-	@inproceedings{bian2018benchmark,
- 	    title={Image Matching Benchmark},
+	@inproceedings{bian2018matchBench,
+ 	    title={MatchBench: A System-level Benchmark and Evaluation for Image Matching},
 	    author={JiaWang Bian and Le Zhang and Yun Liu and Wen-Yan Lin and Ming-Ming Cheng and Ian D. Reid},
 	    year={2018}
 	}
