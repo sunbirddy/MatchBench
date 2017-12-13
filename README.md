@@ -1,5 +1,4 @@
 # MatchBench: A System-level Benchmark and Evaluation for Image Matching
-Experimental code for "MatchBench: A System-level Benchmark and Evaluation for Image Matching"
 
 ![alt tag](https://jwbian.net/wp-content/uploads/2017/09/Pipeline.png)
 
